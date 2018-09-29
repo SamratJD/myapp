@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="156" started-at="2018-09-16T15:07:46Z" finished-at="2018-09-16T15:07:46Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="156" started-at="2018-09-16T15:07:46Z" finished-at="2018-09-16T15:07:46Z">
+      <class name="myproject.AppiumTest">
+        <test-method status="PASS" signature="Android()[pri:0, instance:myproject.AppiumTest@69d9c55]" name="Android" duration-ms="0" started-at="2018-09-16T15:07:46Z" finished-at="2018-09-16T15:07:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Android -->
+        <test-method status="PASS" signature="IOS()[pri:0, instance:myproject.AppiumTest@69d9c55]" name="IOS" duration-ms="0" started-at="2018-09-16T15:07:46Z" finished-at="2018-09-16T15:07:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOS -->
+      </class> <!-- myproject.AppiumTest -->
+      <class name="myproject.SeleniumTest">
+        <test-method status="PASS" signature="Browser()[pri:0, instance:myproject.SeleniumTest@13a57a3b]" name="Browser" duration-ms="0" started-at="2018-09-16T15:07:46Z" finished-at="2018-09-16T15:07:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser -->
+        <test-method status="PASS" signature="UI()[pri:0, instance:myproject.SeleniumTest@13a57a3b]" name="UI" duration-ms="0" started-at="2018-09-16T15:07:46Z" finished-at="2018-09-16T15:07:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UI -->
+      </class> <!-- myproject.SeleniumTest -->
+      <class name="myproject.APITest">
+        <test-method status="PASS" signature="postALM()[pri:0, instance:myproject.APITest@7f560810]" name="postALM" duration-ms="31" started-at="2018-09-16T15:07:46Z" finished-at="2018-09-16T15:07:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postALM -->
+        <test-method status="PASS" signature="postJIRA()[pri:0, instance:myproject.APITest@7f560810]" name="postJIRA" duration-ms="0" started-at="2018-09-16T15:07:46Z" finished-at="2018-09-16T15:07:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJIRA -->
+      </class> <!-- myproject.APITest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

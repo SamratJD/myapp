@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="133" started-at="2018-09-15T07:47:46Z" finished-at="2018-09-15T07:47:46Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="133" started-at="2018-09-15T07:47:46Z" finished-at="2018-09-15T07:47:46Z">
+      <class name="myproject.APITest">
+        <test-method status="PASS" signature="postALM()[pri:0, instance:myproject.APITest@2b4a2ec7]" name="postALM" duration-ms="1" started-at="2018-09-15T07:47:46Z" finished-at="2018-09-15T07:47:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postALM -->
+        <test-method status="PASS" signature="postJIRA()[pri:0, instance:myproject.APITest@2b4a2ec7]" name="postJIRA" duration-ms="0" started-at="2018-09-15T07:47:46Z" finished-at="2018-09-15T07:47:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJIRA -->
+      </class> <!-- myproject.APITest -->
+      <class name="myproject.SeleniumTest">
+        <test-method status="PASS" signature="Browser()[pri:0, instance:myproject.SeleniumTest@51931956]" name="Browser" duration-ms="29" started-at="2018-09-15T07:47:46Z" finished-at="2018-09-15T07:47:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser -->
+        <test-method status="PASS" signature="UI()[pri:0, instance:myproject.SeleniumTest@51931956]" name="UI" duration-ms="1" started-at="2018-09-15T07:47:46Z" finished-at="2018-09-15T07:47:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UI -->
+      </class> <!-- myproject.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
